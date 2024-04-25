@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PocitaniDovolene", "GitHub\PocitaniDovolene.csproj", "{0AFAEB81-0C84-4648-901F-9906E433895B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFAEB81-0C84-4648-901F-9906E433895B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFAEB81-0C84-4648-901F-9906E433895B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFAEB81-0C84-4648-901F-9906E433895B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFAEB81-0C84-4648-901F-9906E433895B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFBBC877-A0EF-4FE0-85C2-C35B887484E0}
+	EndGlobalSection
+EndGlobal
